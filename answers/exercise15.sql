@@ -1,0 +1,2 @@
+SELECT * FROM Students
+WHERE PostalCard IS NOT NULL;
